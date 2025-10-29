@@ -2,14 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stefanpeiculeasa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=stefanpeiculeasa&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanpeiculeasa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
@@ -30,13 +22,15 @@
 
 ###
 
+###
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stefanpeiculeasa&theme=github_dark)
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stefanpeiculeasa&theme=github_dark)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stefanpeiculeasa&theme=github_dark)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=stefanpeiculeasa&theme=github_dark)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stefanpeiculeasa&theme=github_dark&utcOffset=3)
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/stefanpeiculeasa/stefanpeiculeasa/output/snake.svg" alt="Snake animation" />
-
-###
